@@ -19,7 +19,7 @@ Python — was working with Django, Django Rest Framework, Flask, asyncio, aioht
 
 Go — built few simple pet-projects
 
-Javascript - simple interfaces with Angular 1 later React and Vue.js
+Javascript - simple interfaces with Angular 1 and later React and Vue.js
 
 Clojure/Clojurescript — really love REPL feedback and beauty of functional programming.
 
