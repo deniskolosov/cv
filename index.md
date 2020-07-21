@@ -14,8 +14,13 @@ https://github.com/deniskolosov<br>
 ## Currently
 Looking for a job
 
-### Skills
-Python, Django, Django Rest Framework, Go, Javascript, Clojure/Clojurescript, Linux, Docker
+### Experienced in
+Python — was working with Django, Django Rest Framework, Flask, asyncio, aiohttp
+Go — built few simple pet-projects
+Javascript - building simple interfaces with Angular 1 and React and Vue.js
+Clojure/Clojurescript — really love REPL feedback and beauty of functional programming.
+Linux, Docker as everyday tools
+CI/CD — can deploy and scale my apps. 
 
 
 ## Occupation
