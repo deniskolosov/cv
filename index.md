@@ -20,33 +20,32 @@ Python, Django, Django Rest Framework, Go, Javascript, Clojure/Clojurescript, Li
 
 ## Occupation
 `02/2020-04/2020`
-#### Backend Engineer in Escape Tech
+__Backend Engineer in Escape Tech__
 Assisted development on backend for mobile app — online retail platform.
 (Python, Django, SQLAlchemy, Celery, RabbitMQ)
 
-
 `09/2019-11/2019`
-#### Backend Engineer in Floship
+__Backend Engineer in Floship__
 Assisted development on backend for logistics app.
 (Python, Django, Django Rest Framework, Celery, RabbitMQ, Docker)
 
 `09/2017-04/2019`
-#### Platform Engineer in Yoyo Wallet
+__Platform Engineer in Yoyo Wallet__
 Assisted development on backend for multiple mobile wallet apps.
 (Python, Django, Django Rest Framework, Celery, RabbitMQ, Docker)
 
 `11/2015-10/2016`
-#### Software Engineer in Vimpelcom
+__Software Engineer in Vimpelcom__
 Assisted development on backend of internet shop.
 (Python, Django, Django Rest Framework, Celery, RabbitMQ, Docker)
 
 `11/2015-10/2016`
-#### Software Engineer in Esprit Games
+__Software Engineer in Esprit Games__
 Assisted development on app which integrated browser games in several social networks.
 (Python, Flask, Postgresql, Nginx, JS/Angular)
 
 `02/2015-11/2015`
-#### Software Engineer in NPO Echelon
+__Software Engineer in NPO Echelon__
 Assisted development and design on SIEM system (log analyzer) (Python, MySQL, JS/Angular).
 
 ### Hobby & interests
