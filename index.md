@@ -6,7 +6,7 @@ title: Denis's Kolosov CV
 Software engineer, Musician, Chess player.
 
 <div id="webaddress">
-<a href="denis.kolosov@gmail.com">enis.kolosov@gmail.com</a>
+<a href="denis.kolosov@gmail.com">denis.kolosov@gmail.com</a>
 | <a href="https://github.com/deniskolosov">github</a>
 </div>
 
