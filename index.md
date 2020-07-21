@@ -7,7 +7,7 @@ Software engineer, Musician, Chess player.
 
 <div id="webaddress">
 <a href="denis.kolosov@gmail.com">denis.kolosov@gmail.com</a>
-| <a href="https://github.com/deniskolosov">github</a>
+| <a href="https://github.com/deniskolosov">![GitHub Logo](/images/logo.png)</a>
 </div>
 
 
